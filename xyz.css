@@ -1,8 +1,7 @@
-
 .Logo {
     display: block;
     margin: 0 auto;
-    width: 55%;
+    max-width: 100%;
 }
 
 form{
@@ -27,5 +26,3 @@ form{
     font-size: 18px;
     padding: 10px;
   }
-
-  
